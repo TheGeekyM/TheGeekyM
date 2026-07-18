@@ -9,13 +9,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thegeekym&label=Profile%20Views&base=70000&color=6a5acd&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/TheGeekyM?tab=followers">
-    <img src="https://img.shields.io/github/followers/TheGeekyM?label=Followers&style=for-the-badge&color=512bd4" alt="followers" />
-  </a>
-</div>
-
 <br/>
 
 <!-- ======================= ABOUT ======================= -->
@@ -72,21 +65,14 @@ motto:     "A man who has ideas — and implements them."
 <br/>
 
 <!-- ======================= STATS ======================= -->
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
-<!-- ponytail: cards use the PUBLIC github-readme-stats instance (often rate-limited).
-     Swap "github-readme-stats.vercel.app" -> your own Vercel URL after deploying the fork. -->
+<!-- ponytail: points at the PUBLIC github-readme-stats instance, which is frequently down.
+     Deploy your fork (TheGeekyM/github-readme-stats) to Vercel, then replace
+     "github-readme-stats.vercel.app" below with your own instance URL for reliable cards. -->
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thegeekym&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=6a5acd&icon_color=2496ed" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=thegeekym&hide_border=true&theme=react&background=0D1117&ring=6a5acd&fire=2496ed&currStreakLabel=6a5acd" alt="streak" />
-</div>
-
-<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegeekym&layout=compact&langs_count=10&hide_border=true&theme=react&bg_color=0D1117&title_color=6a5acd" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thegeekym&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 <br/>
